@@ -59,7 +59,7 @@ module.exports.handleEvent = async ({
 		body: `»»Thông báo từ Admin«\n\n${c}, Một thằng ngu đéo biết viết code đéo biết tạo api hay nói chung là cũng đéo biết tạo bot mà đi chửi bot lập trình 4.0?\n Mày nghĩ mày tuổi lồn gì\n Một con bot hơn 2xx lệnh như tao mà cần gì phải phục vụ 1 thằng bị chó ăn mất não như mày hả nhóc 🥱\n\n💌Liên hệ Admin:\nhttps://www.facebook.com/profile.php?id=100054607853754\nđể được gỡ ban bạn nhé \n\n🎭Thả tym cho bạn nè thằng ngu`
 	};
     //Thêm các câu chửi vào ko viết Hoa
-	["botngu", "bot ngu", "bot gà", "con bot lol", "bot ngu lol", "bot chó", "dm bot", "đm bot", "dmm bot", "dmm bot", "đmm bot", "đb bot", "bot điên", "bot dở", "bot khùng", "đĩ bot", "con bot lòn", "cmm bot", "bot ncc", "bot oc", "bot óc", "bot óc chó", "cc bot", "bot tiki", "lozz bottt", "lol bot", "loz bot", "lồn bot", "bot lồn", "bot lon", "bot cac", "bot nhu lon", "bot như cc", "bot như bìu", "Bot sida", "bot sida", "bot fake", "mạnh ngu", "bot shoppee", "bot đểu", "bot dỡm"].forEach((a => {
+	["Botngu", "Bot ngu", "Bot gà", "Con bot lol", "Bot ngu Lol", "Bot chó", "Dm bot", "Đm bot", "Dmm bot", "Dmm Bot", "Đmm Bot", "Đb bot", "Not điên", "Bot dở", "Bot khùng", "Đĩ bot", "Con bot lòn", "Cmm bot", "Bot ncc", "Bot oc", "Bot óc", "Bot óc chó","Cc bot", "Bot tiki", "lozz bottt", "Lol bot", "Loz bot", "Lồn bot", "Bot lồn", "Bot lon", "Bot cac", "Bot nhu lon", "Bot như cc", "Bot như bìu", "Bot sida", "Bot sida", "Bot fake", "Bot shoppee", "Not đểu", "Bot dởm",].forEach((a => {
 		
         const s = o.senderID;
 		let d = a[1].toUpperCase() + a.slice(1);
