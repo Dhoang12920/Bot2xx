@@ -1,0 +1,240 @@
+{
+  "name": "Tran Long",
+  "ID": "61550719074741",
+  "mainROD": "The Blessing From The Sea",
+  "GPS": {
+    "locate": "The Unknown Ocean (Additional Ver)",
+    "area": "Absolutely Patient Zone"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 2,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Frenzy Harpoon gun",
+      "price": 125670000,
+      "durability": 7630,
+      "countdown": 1,
+      "luck": 30000,
+      "countdownData": 1701057845796,
+      "image": "https://i.imgur.com/XcOc4tA.png"
+    },
+    {
+      "name": "The Blessing From The Sea",
+      "price": 102440000000,
+      "durability": 117050,
+      "countdown": 0,
+      "luck": 90000,
+      "countdownData": 1701447338344,
+      "image": "https://i.imgur.com/S7eXgbY.png"
+    }
+  ],
+  "point": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 2,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 3,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 4,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 5,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 6,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 7,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 8,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 1,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 2,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 3,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 4,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 5,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 6,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 7,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 8,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 9,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 10,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 11,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 12,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 1,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    },
+    {
+      "ID": 2,
+      "name": "Broken Tusk",
+      "category": "Mythical",
+      "size": 6560,
+      "sell": 32420000,
+      "image": "https://i.imgur.com/mrRvWvf.png"
+    }
+  ],
+  "timeRegister": "10:58:18, 27/11/2023"
+}

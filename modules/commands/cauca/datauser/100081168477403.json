@@ -1,0 +1,29 @@
+{
+    "name": "Nguyễn Đình Tuân🫧",
+    "ID": "100081168477403",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+            "category": "Unnamed",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "point": [
+        {
+            "ID": 0,
+            "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+            "category": "Unnamed",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "timeRegister": "15:47:33, 28/11/2023"
+}

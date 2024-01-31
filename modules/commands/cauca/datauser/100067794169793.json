@@ -1,0 +1,71 @@
+{
+  "name": "Grace Belleza",
+  "ID": "100067794169793",
+  "mainROD": "Titanium Harpoon",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Lost River"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Bleeder",
+      "category": "Uncommon",
+      "size": 19,
+      "sell": 370,
+      "image": "https://i.imgur.com/EVAjNvI.png"
+    },
+    {
+      "ID": 2,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    }
+  ],
+  "item": [
+    {
+      "name": "Titanium Harpoon",
+      "price": 11000,
+      "durability": 80,
+      "countdown": 150,
+      "luck": 2000,
+      "countdownData": 1702112786901,
+      "image": "https://i.imgur.com/vgIeC3t.jpg"
+    }
+  ],
+  "point": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Bleeder",
+      "category": "Uncommon",
+      "size": 19,
+      "sell": 370,
+      "image": "https://i.imgur.com/EVAjNvI.png"
+    },
+    {
+      "ID": 2,
+      "name": "Spinefish",
+      "category": "Common",
+      "size": 27,
+      "sell": 200,
+      "image": "https://i.imgur.com/inXivDO.jpg"
+    }
+  ],
+  "timeRegister": "23:22:51, 8/12/2023"
+}

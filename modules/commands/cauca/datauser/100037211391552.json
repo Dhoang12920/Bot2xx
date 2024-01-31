@@ -1,0 +1,232 @@
+{
+  "name": "Heo Rừng",
+  "ID": "100037211391552",
+  "mainROD": "Steel Harpoon",
+  "GPS": {
+    "locate": "The Unknown Ocean (Additional Ver)",
+    "area": "The Forever Abyss"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 3,
+      "name": "Piscine",
+      "category": "Common",
+      "size": 13,
+      "sell": 250,
+      "image": "https://i.imgur.com/EOG6U5G.jpg"
+    },
+    {
+      "ID": 4,
+      "name": "Piscine",
+      "category": "Common",
+      "size": 13,
+      "sell": 250,
+      "image": "https://i.imgur.com/EOG6U5G.jpg"
+    },
+    {
+      "ID": 7,
+      "name": "Medium Tetracis",
+      "category": "Uncommon",
+      "size": 34,
+      "sell": 400,
+      "image": "https://i.imgur.com/tzZA92b.jpg"
+    },
+    {
+      "ID": 8,
+      "name": "Flame Ray",
+      "category": "Uncommon",
+      "size": 240,
+      "sell": 2100,
+      "image": "https://i.imgur.com/omUsJzR.png"
+    },
+    {
+      "ID": 10,
+      "name": "Flame Ray",
+      "category": "Uncommon",
+      "size": 240,
+      "sell": 2100,
+      "image": "https://i.imgur.com/omUsJzR.png"
+    },
+    {
+      "ID": 11,
+      "name": "The Peel",
+      "category": "Rare",
+      "size": 970,
+      "sell": 8200,
+      "image": "https://i.imgur.com/uKh9b7N.png"
+    },
+    {
+      "ID": 12,
+      "name": "Bulldog Trapjaw",
+      "category": "Rare",
+      "size": 325,
+      "sell": 4360,
+      "image": "https://i.imgur.com/D6VEevg.png"
+    },
+    {
+      "ID": 13,
+      "name": "Piscine",
+      "category": "Common",
+      "size": 13,
+      "sell": 250,
+      "image": "https://i.imgur.com/EOG6U5G.jpg"
+    },
+    {
+      "ID": 14,
+      "name": "Void Thresher",
+      "category": "Epic",
+      "size": 2495,
+      "sell": 134360,
+      "image": "https://i.imgur.com/Ek4rAfS.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Light Iron Harpoon",
+      "price": 1000,
+      "durability": 20,
+      "countdown": 200,
+      "luck": 0,
+      "countdownData": 1701917618056,
+      "image": "https://i.imgur.com/gQuka5L.jpg"
+    },
+    {
+      "name": "Steel Harpoon",
+      "price": 2500,
+      "durability": 30,
+      "countdown": 180,
+      "luck": 1000,
+      "countdownData": 1702393434449,
+      "image": "https://i.imgur.com/mptiizn.png"
+    }
+  ],
+  "point": [
+    {
+      "ID": 0,
+      "name": "Đừng bán con cá này ko là lỗi tao đéo chịu trách nhiệm đâu",
+      "category": "Unnamed",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Titanus Blighter",
+      "category": "Epic",
+      "size": 3195,
+      "sell": 134360,
+      "image": "https://i.imgur.com/vKEpfcE.png"
+    },
+    {
+      "ID": 2,
+      "name": "The Peel",
+      "category": "Rare",
+      "size": 970,
+      "sell": 8200,
+      "image": "https://i.imgur.com/uKh9b7N.png"
+    },
+    {
+      "ID": 3,
+      "name": "Piscine",
+      "category": "Common",
+      "size": 13,
+      "sell": 250,
+      "image": "https://i.imgur.com/EOG6U5G.jpg"
+    },
+    {
+      "ID": 4,
+      "name": "Piscine",
+      "category": "Common",
+      "size": 13,
+      "sell": 250,
+      "image": "https://i.imgur.com/EOG6U5G.jpg"
+    },
+    {
+      "ID": 5,
+      "name": "Large Tetracis",
+      "category": "Rare",
+      "size": 60,
+      "sell": 1800,
+      "image": "https://i.imgur.com/RWN0poW.jpg"
+    },
+    {
+      "ID": 6,
+      "name": "Bulldog Trapjaw",
+      "category": "Rare",
+      "size": 325,
+      "sell": 4360,
+      "image": "https://i.imgur.com/D6VEevg.png"
+    },
+    {
+      "ID": 7,
+      "name": "Medium Tetracis",
+      "category": "Uncommon",
+      "size": 34,
+      "sell": 400,
+      "image": "https://i.imgur.com/tzZA92b.jpg"
+    },
+    {
+      "ID": 8,
+      "name": "Flame Ray",
+      "category": "Uncommon",
+      "size": 240,
+      "sell": 2100,
+      "image": "https://i.imgur.com/omUsJzR.png"
+    },
+    {
+      "ID": 9,
+      "name": "The Peel",
+      "category": "Rare",
+      "size": 970,
+      "sell": 8200,
+      "image": "https://i.imgur.com/uKh9b7N.png"
+    },
+    {
+      "ID": 10,
+      "name": "Flame Ray",
+      "category": "Uncommon",
+      "size": 240,
+      "sell": 2100,
+      "image": "https://i.imgur.com/omUsJzR.png"
+    },
+    {
+      "ID": 11,
+      "name": "The Peel",
+      "category": "Rare",
+      "size": 970,
+      "sell": 8200,
+      "image": "https://i.imgur.com/uKh9b7N.png"
+    },
+    {
+      "ID": 12,
+      "name": "Bulldog Trapjaw",
+      "category": "Rare",
+      "size": 325,
+      "sell": 4360,
+      "image": "https://i.imgur.com/D6VEevg.png"
+    },
+    {
+      "ID": 13,
+      "name": "Piscine",
+      "category": "Common",
+      "size": 13,
+      "sell": 250,
+      "image": "https://i.imgur.com/EOG6U5G.jpg"
+    },
+    {
+      "ID": 14,
+      "name": "Void Thresher",
+      "category": "Epic",
+      "size": 2495,
+      "sell": 134360,
+      "image": "https://i.imgur.com/Ek4rAfS.png"
+    }
+  ],
+  "timeRegister": "10:24:28, 27/11/2023"
+}
